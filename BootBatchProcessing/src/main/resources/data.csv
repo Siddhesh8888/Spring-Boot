@@ -1,0 +1,12 @@
+productId,title,description,price,discount
+1,product1,this is product1,100,10
+2,product2,this is product2,200,20
+3,product3,this is product3,300,30
+4,product4,this is product4,400,32
+5,product5,this is product5,500,14
+6,product6,this is product6,600,24
+7,product7,this is product7,700,12
+8,product8,this is product8,800,23
+9,product9,this is product9,900,45
+10,product10,this is product10,1000,25
+11,product11,this is product11,1100,20
